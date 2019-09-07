@@ -1,0 +1,11 @@
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\bin\Debug\netcoreapp2.1\notas do trimestre.deps.json
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\bin\Debug\netcoreapp2.1\notas do trimestre.runtimeconfig.json
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\bin\Debug\netcoreapp2.1\notas do trimestre.runtimeconfig.dev.json
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\bin\Debug\netcoreapp2.1\notas do trimestre.dll
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\bin\Debug\netcoreapp2.1\notas do trimestre.pdb
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\obj\Debug\netcoreapp2.1\notas do trimestre.csprojAssemblyReference.cache
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\obj\Debug\netcoreapp2.1\notas do trimestre.csproj.CoreCompileInputs.cache
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\obj\Debug\netcoreapp2.1\notas do trimestre.AssemblyInfoInputs.cache
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\obj\Debug\netcoreapp2.1\notas do trimestre.AssemblyInfo.cs
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\obj\Debug\netcoreapp2.1\notas do trimestre.dll
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\programa para resultado final de notas de alunos\notas do trimestre\notas do trimestre\obj\Debug\netcoreapp2.1\notas do trimestre.pdb
